@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main-menu {
+  padding: 4% 16%;
+}
+
+.main-menu ul {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-menu ul li {
+  list-style-type: none;
+}
+
+.app-in img {
+  width: 330px;
+  height: 230px;
+}
